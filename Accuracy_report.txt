@@ -182,13 +182,3 @@ Highest average churn by **Title**:
 Semantic confidence: **24.8%** (top match) | **22.8%** (avg of 8 results)
 
 
-| Category                 | Score             |
-| ------------------------ | ----------------- |
-| Retrieval Relevance      | 1 / 10            |
-| Metric Mapping Accuracy  | 0 / 10            |
-| Numeric Accuracy         | 0 / 10            |
-| Hallucination Resistance | 2 / 10            |
-| Schema Understanding     | 0 / 10            |
-| Business Logic Reasoning | 0 / 10            |
-| **Final Accuracy Score** | **0.3 / 10 (3%)** |
-
